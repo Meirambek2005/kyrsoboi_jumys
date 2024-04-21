@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../kursoboi_work_1.srcs/sources_1/new/is_true.v" \
+"../../../../kursoboi_work_1.srcs/sources_1/new/log_and.v" \
+"../../../../kursoboi_work_1.srcs/sources_1/new/tb_ log_and.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/admin/kursoboi_work_1/kursoboi_work_1.srcs/sources_1/new/is_true.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module is_true7
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/admin/kursoboi_work_1/kursoboi_work_1.srcs/sources_1/new/log_and.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module log_and
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/admin/kursoboi_work_1/kursoboi_work_1.srcs/sources_1/new/tb_ log_and.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_log_and
